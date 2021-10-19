@@ -1,0 +1,13 @@
+.header__link {
+  color: #2f80ed;
+  position: absolute;
+  max-height: 25px;
+  margin-top: 50px;
+  margin-left: 269px;
+  text-decoration: none;
+}
+
+.header__link:hover {
+opacity: .6;
+transition-duration: 0.6s;
+}
