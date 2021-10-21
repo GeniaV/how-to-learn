@@ -1,5 +1,7 @@
 .logo_place_footer {
   display: flex;
-  align-self: flex-start;
   color: #f2f2f2;
+  margin: 0px;
+  align-self: flex-start;
+
 }

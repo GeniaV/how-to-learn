@@ -4,8 +4,6 @@
   font-weight: 400;
   position: absolute;
   width: 388px;
-  margin-left: 64px;
-  display: flex;
-  align-self: flex-end;
-  margin-bottom: 30px;
+  bottom: 30px;
+  left: 64px;
 }

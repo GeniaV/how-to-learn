@@ -7,4 +7,5 @@
   align-self: stretch;
   justify-content: flex-end;
   bottom: 0;
+  z-index: -1;
 }

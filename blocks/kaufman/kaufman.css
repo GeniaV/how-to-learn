@@ -4,5 +4,5 @@
   background-color: #1f1f1f;
   overflow: hidden;
   position: relative;
-  z-index: -2;
+  z-index: 0;
 }

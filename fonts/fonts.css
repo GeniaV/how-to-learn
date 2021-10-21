@@ -7,15 +7,7 @@
   url(./Inter-Regular.ttf) format('truetype'),
   url(./Inter-Regular.otf) format('eot');
   }
-@font-face {
-  font-family: 'Inter';
-  font-weight: 600;
-  src:
-  url(./Inter-SemiBold.woff2) format('woff2'),
-  url(./Inter-SemiBold.woff) format('woff'),
-  url(./Inter-SemiBold.ttf) format('truetype'),
-  url(./Inter-SemiBold.otf) format('eot');
-}
+
 @font-face {
   font-family: 'Inter';
   font-weight: 700;
