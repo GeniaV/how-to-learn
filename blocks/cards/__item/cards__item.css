@@ -1,7 +1,10 @@
 .cards__item {
   width: 240px;
+  margin-right: 100px;
+  box-sizing: border-box;
 }
 
-.cards__item:nth-of-type(5n) {
-  margin-right: 340px;
+.cards__item:nth-of-type(3n+3) {
+  margin-right: 0;
 }
+
